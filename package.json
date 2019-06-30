@@ -1,0 +1,24 @@
+{
+  "name": "ng-chain",
+  "version": "1.0.0",
+  "description": "This is the Part of initial Block chain Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nujoomvyshamnazar/nj-chain.git"
+  },
+  "keywords": [
+    "Blockchain",
+    "ng-chain",
+    "ng-wallet"
+  ],
+  "author": "Nujoom Nazar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nujoomvyshamnazar/nj-chain/issues"
+  },
+  "homepage": "https://github.com/Nujoomvyshamnazar/nj-chain#readme"
+}
